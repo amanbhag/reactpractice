@@ -1,0 +1,21 @@
+// <div className="  max-w-screen-6xl bg-[#2F1893] shadow-lg">
+    //   <div className="flex max-w-[1240px] mx-auto  text-white  justify-between">
+    //     <div className="text-xl  p-4 m-2">
+    //       <h1>Umesh bhagtani</h1>
+    //     </div>
+    //     <div class="inline-flex flex-row">
+    //       <div class=" p-4 m-2">Get the app</div>
+    //       <div class=" p-4 m-2">Features</div>
+    //       <div class=" p-4 m-2">F.A.Q</div>
+    //     </div>
+    //     <div className="flex flex-row justify-between items-center">
+    //       <button className="mx-auto text-xs font-medium border border-white bg-[#25DAC5] hover:to-blue-800  text-cente  rounded-full font-semibold ">
+    //         SignIn
+    //       </button>{" "}
+    //       <button className=" text-xs    bg-[#25DAC5] border border-white hover:to-blue-800  text-cente  mx-auto rounded-full font-semibold">
+    //         Signup
+    //       </button>
+    //     </div>
+    //   </div>
+    // </div>
+    
